@@ -22,4 +22,4 @@ jobs:
             column_id: 14704487,
             content_id: context.payload.issue.id,
             content_type: "Issue"
-            });
+            })
